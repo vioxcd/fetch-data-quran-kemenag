@@ -1,0 +1,572 @@
+{
+    "1": {
+        "nama_surat": "Al-Fatihah",
+        "arti_surat": "Pembukaan",
+        "ayat": "7"
+    },
+    "2": {
+        "nama_surat": "Al-Baqarah",
+        "arti_surat": "Sapi",
+        "ayat": "286"
+    },
+    "3": {
+        "nama_surat": "Ali 'Imran",
+        "arti_surat": "Keluarga Imran",
+        "ayat": "200"
+    },
+    "4": {
+        "nama_surat": "An-Nisa'",
+        "arti_surat": "Wanita",
+        "ayat": "176"
+    },
+    "5": {
+        "nama_surat": "Al-Ma'idah",
+        "arti_surat": "Hidangan",
+        "ayat": "120"
+    },
+    "6": {
+        "nama_surat": "Al-An'am",
+        "arti_surat": "Binatang Ternak",
+        "ayat": "165"
+    },
+    "7": {
+        "nama_surat": "Al-A'raf",
+        "arti_surat": "Tempat Tertinggi",
+        "ayat": "206"
+    },
+    "8": {
+        "nama_surat": "Al-Anfal",
+        "arti_surat": "Rampasan Perang",
+        "ayat": "75"
+    },
+    "9": {
+        "nama_surat": "At-Taubah",
+        "arti_surat": "Pengampunan",
+        "ayat": "129"
+    },
+    "10": {
+        "nama_surat": "Yunus",
+        "arti_surat": "Yunus",
+        "ayat": "109"
+    },
+    "11": {
+        "nama_surat": "Hud",
+        "arti_surat": "Hud",
+        "ayat": "123"
+    },
+    "12": {
+        "nama_surat": "Yusuf",
+        "arti_surat": "Yusuf",
+        "ayat": "111"
+    },
+    "13": {
+        "nama_surat": "Ar-Ra'd",
+        "arti_surat": "Guruh",
+        "ayat": "43"
+    },
+    "14": {
+        "nama_surat": "Ibrahim",
+        "arti_surat": "Ibrahim",
+        "ayat": "52"
+    },
+    "15": {
+        "nama_surat": "Al-Hijr",
+        "arti_surat": "Hijr",
+        "ayat": "99"
+    },
+    "16": {
+        "nama_surat": "An-Nahl",
+        "arti_surat": "Lebah",
+        "ayat": "128"
+    },
+    "17": {
+        "nama_surat": "Al-Isra'",
+        "arti_surat": "Memperjalankan Malam Hari",
+        "ayat": "111"
+    },
+    "18": {
+        "nama_surat": "Al-Kahf",
+        "arti_surat": "Goa",
+        "ayat": "110"
+    },
+    "19": {
+        "nama_surat": "Maryam",
+        "arti_surat": "Maryam",
+        "ayat": "98"
+    },
+    "20": {
+        "nama_surat": "Taha",
+        "arti_surat": "Taha",
+        "ayat": "135"
+    },
+    "21": {
+        "nama_surat": "Al-Anbiya'",
+        "arti_surat": "Para Nabi",
+        "ayat": "112"
+    },
+    "22": {
+        "nama_surat": "Al-Hajj",
+        "arti_surat": "Haji",
+        "ayat": "78"
+    },
+    "23": {
+        "nama_surat": "Al-Mu'minun",
+        "arti_surat": "Orang-Orang Mukmin",
+        "ayat": "118"
+    },
+    "24": {
+        "nama_surat": "An-Nur",
+        "arti_surat": "Cahaya",
+        "ayat": "64"
+    },
+    "25": {
+        "nama_surat": "Al-Furqan",
+        "arti_surat": "Pembeda",
+        "ayat": "77"
+    },
+    "26": {
+        "nama_surat": "Asy-Syu'ara'",
+        "arti_surat": "Para Penyair",
+        "ayat": "227"
+    },
+    "27": {
+        "nama_surat": "An-Naml",
+        "arti_surat": "Semut-semut",
+        "ayat": "93"
+    },
+    "28": {
+        "nama_surat": "Al-Qasas",
+        "arti_surat": "Kisah-Kisah",
+        "ayat": "88"
+    },
+    "29": {
+        "nama_surat": "Al-'Ankabut",
+        "arti_surat": "Laba-Laba",
+        "ayat": "69"
+    },
+    "30": {
+        "nama_surat": "Ar-Rum",
+        "arti_surat": "Romawi",
+        "ayat": "60"
+    },
+    "31": {
+        "nama_surat": "Luqman",
+        "arti_surat": "Luqman",
+        "ayat": "34"
+    },
+    "32": {
+        "nama_surat": "As-Sajdah",
+        "arti_surat": "Sajdah",
+        "ayat": "30"
+    },
+    "33": {
+        "nama_surat": "Al-Ahzab",
+        "arti_surat": "Golongan Yang Bersekutu",
+        "ayat": "73"
+    },
+    "34": {
+        "nama_surat": "Saba'",
+        "arti_surat": "Saba'",
+        "ayat": "54"
+    },
+    "35": {
+        "nama_surat": "Fatir",
+        "arti_surat": "Maha Pencipta",
+        "ayat": "45"
+    },
+    "36": {
+        "nama_surat": "Yasin",
+        "arti_surat": "Yasin",
+        "ayat": "83"
+    },
+    "37": {
+        "nama_surat": "As-Saffat",
+        "arti_surat": "Barisan-Barisan",
+        "ayat": "182"
+    },
+    "38": {
+        "nama_surat": "Sad",
+        "arti_surat": "Sad",
+        "ayat": "88"
+    },
+    "39": {
+        "nama_surat": "Az-Zumar",
+        "arti_surat": "Rombongan",
+        "ayat": "75"
+    },
+    "40": {
+        "nama_surat": "Gafir",
+        "arti_surat": "Maha Pengampun",
+        "ayat": "85"
+    },
+    "41": {
+        "nama_surat": "Fussilat",
+        "arti_surat": "Yang Dijelaskan",
+        "ayat": "54"
+    },
+    "42": {
+        "nama_surat": "Asy-Syura",
+        "arti_surat": "Musyawarah",
+        "ayat": "53"
+    },
+    "43": {
+        "nama_surat": "Az-Zukhruf",
+        "arti_surat": "Perhiasan",
+        "ayat": "89"
+    },
+    "44": {
+        "nama_surat": "Ad-Dukhan",
+        "arti_surat": "Kabut",
+        "ayat": "59"
+    },
+    "45": {
+        "nama_surat": "Al-Jasiyah",
+        "arti_surat": "Berlutut",
+        "ayat": "37"
+    },
+    "46": {
+        "nama_surat": "Al-Ahqaf",
+        "arti_surat": "Bukit Pasir",
+        "ayat": "35"
+    },
+    "47": {
+        "nama_surat": "Muhammad",
+        "arti_surat": "Muhammad",
+        "ayat": "38"
+    },
+    "48": {
+        "nama_surat": "Al-Fath",
+        "arti_surat": "Kemenangan",
+        "ayat": "29"
+    },
+    "49": {
+        "nama_surat": "Al-Hujurat",
+        "arti_surat": "Kamar-Kamar",
+        "ayat": "18"
+    },
+    "50": {
+        "nama_surat": "Qaf",
+        "arti_surat": "Qaf",
+        "ayat": "45"
+    },
+    "51": {
+        "nama_surat": "Az-Zariyat",
+        "arti_surat": "Angin yang Menerbangkan",
+        "ayat": "60"
+    },
+    "52": {
+        "nama_surat": "At-Tur",
+        "arti_surat": "Bukit Tursina",
+        "ayat": "49"
+    },
+    "53": {
+        "nama_surat": "An-Najm",
+        "arti_surat": "Bintang",
+        "ayat": "62"
+    },
+    "54": {
+        "nama_surat": "Al-Qamar",
+        "arti_surat": "Bulan",
+        "ayat": "55"
+    },
+    "55": {
+        "nama_surat": "Ar-Rahman",
+        "arti_surat": "Maha Pengasih",
+        "ayat": "78"
+    },
+    "56": {
+        "nama_surat": "Al-Waqi'ah",
+        "arti_surat": "Hari Kiamat",
+        "ayat": "96"
+    },
+    "57": {
+        "nama_surat": "Al-Hadid",
+        "arti_surat": "Besi",
+        "ayat": "29"
+    },
+    "58": {
+        "nama_surat": "Al-Mujadalah",
+        "arti_surat": "Gugatan",
+        "ayat": "22"
+    },
+    "59": {
+        "nama_surat": "Al-Hasyr",
+        "arti_surat": "Pengusiran",
+        "ayat": "24"
+    },
+    "60": {
+        "nama_surat": "Al-Mumtahanah",
+        "arti_surat": "Wanita Yang Diuji",
+        "ayat": "13"
+    },
+    "61": {
+        "nama_surat": "As-Saff",
+        "arti_surat": "Barisan",
+        "ayat": "14"
+    },
+    "62": {
+        "nama_surat": "Al-Jumu'ah",
+        "arti_surat": "Jumat",
+        "ayat": "11"
+    },
+    "63": {
+        "nama_surat": "Al-Munafiqun",
+        "arti_surat": "Orang-Orang Munafik",
+        "ayat": "11"
+    },
+    "64": {
+        "nama_surat": "At-Tagabun",
+        "arti_surat": "Pengungkapan Kesalahan",
+        "ayat": "18"
+    },
+    "65": {
+        "nama_surat": "At-Talaq",
+        "arti_surat": "Talak",
+        "ayat": "12"
+    },
+    "66": {
+        "nama_surat": "At-Tahrim",
+        "arti_surat": "Pengharaman",
+        "ayat": "12"
+    },
+    "67": {
+        "nama_surat": "Al-Mulk",
+        "arti_surat": "Kerajaan",
+        "ayat": "30"
+    },
+    "68": {
+        "nama_surat": "Al-Qalam",
+        "arti_surat": "Pena",
+        "ayat": "52"
+    },
+    "69": {
+        "nama_surat": "Al-Haqqah",
+        "arti_surat": "Hari Kiamat",
+        "ayat": "52"
+    },
+    "70": {
+        "nama_surat": "Al-Ma'arij",
+        "arti_surat": "Tempat Naik",
+        "ayat": "44"
+    },
+    "71": {
+        "nama_surat": "Nuh",
+        "arti_surat": "Nuh",
+        "ayat": "28"
+    },
+    "72": {
+        "nama_surat": "Al-Jinn",
+        "arti_surat": "Jin",
+        "ayat": "28"
+    },
+    "73": {
+        "nama_surat": "Al-Muzzammil",
+        "arti_surat": "Orang Yang Berselimut",
+        "ayat": "20"
+    },
+    "74": {
+        "nama_surat": "Al-Muddassir",
+        "arti_surat": "Orang Yang Berkemul",
+        "ayat": "56"
+    },
+    "75": {
+        "nama_surat": "Al-Qiyamah",
+        "arti_surat": "Hari Kiamat",
+        "ayat": "40"
+    },
+    "76": {
+        "nama_surat": "Al-Insan",
+        "arti_surat": "Manusia",
+        "ayat": "31"
+    },
+    "77": {
+        "nama_surat": "Al-Mursalat",
+        "arti_surat": "Malaikat Yang Diutus",
+        "ayat": "50"
+    },
+    "78": {
+        "nama_surat": "An-Naba'",
+        "arti_surat": "Berita Besar",
+        "ayat": "40"
+    },
+    "79": {
+        "nama_surat": "An-Nazi'at",
+        "arti_surat": "Malaikat Yang Mencabut",
+        "ayat": "46"
+    },
+    "80": {
+        "nama_surat": "'Abasa",
+        "arti_surat": "Bermuka Masam",
+        "ayat": "42"
+    },
+    "81": {
+        "nama_surat": "At-Takwir",
+        "arti_surat": "Penggulungan",
+        "ayat": "29"
+    },
+    "82": {
+        "nama_surat": "Al-Infitar",
+        "arti_surat": "Terbelah",
+        "ayat": "19"
+    },
+    "83": {
+        "nama_surat": "Al-Mutaffifin",
+        "arti_surat": "Orang-Orang Curang",
+        "ayat": "36"
+    },
+    "84": {
+        "nama_surat": "Al-Insyiqaq",
+        "arti_surat": "Terbelah",
+        "ayat": "25"
+    },
+    "85": {
+        "nama_surat": "Al-Buruj",
+        "arti_surat": "Gugusan Bintang",
+        "ayat": "22"
+    },
+    "86": {
+        "nama_surat": "At-Tariq",
+        "arti_surat": "Yang Datang Di Malam Hari",
+        "ayat": "17"
+    },
+    "87": {
+        "nama_surat": "Al-A'la",
+        "arti_surat": "Maha Tinggi",
+        "ayat": "19"
+    },
+    "88": {
+        "nama_surat": "Al-Gasyiyah",
+        "arti_surat": "Hari Kiamat",
+        "ayat": "26"
+    },
+    "89": {
+        "nama_surat": "Al-Fajr",
+        "arti_surat": "Fajar",
+        "ayat": "30"
+    },
+    "90": {
+        "nama_surat": "Al-Balad",
+        "arti_surat": "Negeri",
+        "ayat": "20"
+    },
+    "91": {
+        "nama_surat": "Asy-Syams",
+        "arti_surat": "Matahari",
+        "ayat": "15"
+    },
+    "92": {
+        "nama_surat": "Al-Lail",
+        "arti_surat": "Malam",
+        "ayat": "21"
+    },
+    "93": {
+        "nama_surat": "Ad-Duha",
+        "arti_surat": "Duha",
+        "ayat": "11"
+    },
+    "94": {
+        "nama_surat": "Asy-Syarh",
+        "arti_surat": "Lapang",
+        "ayat": "8"
+    },
+    "95": {
+        "nama_surat": "At-Tin",
+        "arti_surat": "Buah Tin",
+        "ayat": "8"
+    },
+    "96": {
+        "nama_surat": "Al-'Alaq",
+        "arti_surat": "Segumpal Darah",
+        "ayat": "19"
+    },
+    "97": {
+        "nama_surat": "Al-Qadr",
+        "arti_surat": "Kemuliaan",
+        "ayat": "5"
+    },
+    "98": {
+        "nama_surat": "Al-Bayyinah",
+        "arti_surat": "Bukti Nyata",
+        "ayat": "8"
+    },
+    "99": {
+        "nama_surat": "Az-Zalzalah",
+        "arti_surat": "Guncangan",
+        "ayat": "8"
+    },
+    "100": {
+        "nama_surat": "Al-'Adiyat",
+        "arti_surat": "Kuda Yang Berlari Kencang",
+        "ayat": "11"
+    },
+    "101": {
+        "nama_surat": "Al-Qari'ah",
+        "arti_surat": "Hari Kiamat",
+        "ayat": "11"
+    },
+    "102": {
+        "nama_surat": "At-Takasur",
+        "arti_surat": "Bermegah-Megahan",
+        "ayat": "8"
+    },
+    "103": {
+        "nama_surat": "Al-'Asr",
+        "arti_surat": "Asar",
+        "ayat": "3"
+    },
+    "104": {
+        "nama_surat": "Al-Humazah",
+        "arti_surat": "Pengumpat",
+        "ayat": "9"
+    },
+    "105": {
+        "nama_surat": "Al-Fil",
+        "arti_surat": "Gajah",
+        "ayat": "5"
+    },
+    "106": {
+        "nama_surat": "Quraisy",
+        "arti_surat": "Quraisy",
+        "ayat": "4"
+    },
+    "107": {
+        "nama_surat": "Al-Ma'un",
+        "arti_surat": "Barang Yang Berguna",
+        "ayat": "7"
+    },
+    "108": {
+        "nama_surat": "Al-Kausar",
+        "arti_surat": "Pemberian Yang Banyak",
+        "ayat": "3"
+    },
+    "109": {
+        "nama_surat": "Al-Kafirun",
+        "arti_surat": "Orang-Orang kafir",
+        "ayat": "6"
+    },
+    "110": {
+        "nama_surat": "An-Nasr",
+        "arti_surat": "Pertolongan",
+        "ayat": "3"
+    },
+    "111": {
+        "nama_surat": "Al-Lahab",
+        "arti_surat": "Api Yang Bergejolak",
+        "ayat": "5"
+    },
+    "112": {
+        "nama_surat": "Al-Ikhlas",
+        "arti_surat": "Ikhlas",
+        "ayat": "4"
+    },
+    "113": {
+        "nama_surat": "Al-Falaq",
+        "arti_surat": "Subuh",
+        "ayat": "5"
+    },
+    "114": {
+        "nama_surat": "An-Nas",
+        "arti_surat": "Manusia",
+        "ayat": "6"
+    }
+}
